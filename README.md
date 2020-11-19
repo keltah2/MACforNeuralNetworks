@@ -1,2 +1,2 @@
-# ECE467_Project
+# MACforNeuralNetworks
 Multiplication and Accumulation Neural Network project using Virtuoso Cadence. 
